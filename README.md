@@ -17,5 +17,6 @@ tensorflow==1.14.0
 
 ## 运行步骤
 python generate_wanghong.py
-#结果实例（256x256）：
+
+# 结果实例（256x256）：
 ![image](https://github.com/HqWei/HqWei-StyleGAN2_face_generator/blob/master/examples/0000.png)
