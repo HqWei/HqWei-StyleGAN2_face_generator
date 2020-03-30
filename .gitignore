@@ -1,0 +1,8 @@
+*.tar
+*.pkl
+*.pth
+*.zip
+*.gz
+*.log
+*.pyc
+.idea
