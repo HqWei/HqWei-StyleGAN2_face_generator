@@ -1,11 +1,13 @@
 # 网红脸生成器-V2.0
 基于StyleGAN2制作的新版生成器消除了生成图片中水滴斑点和扭曲/损坏现象的出现，质量大幅提升
 
+# 代码来源
+https://github.com/a312863063/seeprettyface-generator-wanghong
 
 
 # 生成示例
-![image](https://github.com/HqWei/HqWei-StyleGAN2_face_generator/blob/master/examples/example2.png)
 
+![image](https://github.com/HqWei/HqWei-StyleGAN2_face_generator/blob/master/examples/0000.png)
 
 
 
@@ -18,5 +20,4 @@ tensorflow==1.14.0
 ## 运行步骤
 python generate_wanghong.py
 
-# 结果实例（256x256）：
-![image](https://github.com/HqWei/HqWei-StyleGAN2_face_generator/blob/master/examples/0000.png)
+
