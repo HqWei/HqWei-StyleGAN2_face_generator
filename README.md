@@ -9,7 +9,11 @@ https://github.com/a312863063/seeprettyface-generator-wanghong
 
 ![image](https://github.com/HqWei/HqWei-StyleGAN2_face_generator/blob/master/examples/0000.png)
 
+# 训练好的模型：
 
+256px和1024px生成器模型：
+链接：https://pan.baidu.com/s/18WSmt453RWBbYaOVWQn_Hw 
+提取码：mp46
 
 # 运行代码
 ## 环境配置
