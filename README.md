@@ -4,8 +4,8 @@
 
 
 # 生成示例
-
-
+![image]https://github.com/HqWei/HqWei-StyleGAN2_face_generator/blob/master/examples/example2.png
+![image]https://github.com/HqWei/HqWei-StyleGAN2_face_generator/blob/master/examples/0000.png
 
 
 
